@@ -1,0 +1,5 @@
+This is written from context manager.
+This is second time writing from context manager
+first
+second
+third
