@@ -1,1 +1,2 @@
 This statement is manunally typed.
+json normalize
